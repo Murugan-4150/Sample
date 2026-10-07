@@ -8,7 +8,7 @@ public class test {
 
     @GetMapping("getMessage")
     public String getMessage(){
-        return  "Successfully deployed";
+        return  "Successfully deployed using automatically";
     }
 
 
